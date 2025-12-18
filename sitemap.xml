@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Befu-Web Top (EN) -->
+    <url>
+        <loc>https://ryoptakahashijob-cloud.github.io/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Befu-Web Top (JA) -->
+    <url>
+        <loc>https://ryoptakahashijob-cloud.github.io/ja/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- BeReal App (EN) -->
+    <url>
+        <loc>https://ryoptakahashijob-cloud.github.io/bereal/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- BeReal App (JA) -->
+    <url>
+        <loc>https://ryoptakahashijob-cloud.github.io/bereal/ja/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+</urlset>
